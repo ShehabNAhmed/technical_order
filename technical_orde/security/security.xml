@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+
+     <record id="Technical_Order_Manager_group" model="res.groups">
+        <field name="name">Technical Order Manager</field>
+<!--        <field name="category_id" ref="real_state.property_category"/>-->
+    </record>
+
+
+</odoo>
